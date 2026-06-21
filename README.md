@@ -18,7 +18,7 @@ A simple React application that fetches and displays random jokes using a public
 
 ## Demo
 
-> [Demo](https://random-joke-generator-chi-two.vercel.app/)
+> [Link](https://random-joke-generator-chi-two.vercel.app/)
 
 ## Getting Started
 
