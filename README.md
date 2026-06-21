@@ -18,18 +18,9 @@ A simple React application that fetches and displays random jokes using a public
 
 ## Demo
 
-> Add a live demo link here once deployed (e.g. Vercel/Netlify).
-
-## Screenshots
-
-> Add a screenshot or GIF of the app here.
+> [Demo](https://random-joke-generator-chi-two.vercel.app/)
 
 ## Getting Started
-
-### Prerequisites
-
-- Node.js (v16 or higher)
-- npm or yarn
 
 ### Installation
 
