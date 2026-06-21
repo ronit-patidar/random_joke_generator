@@ -69,7 +69,6 @@ joker-app/
 - [ ] Add a "Favorite Jokes" feature using localStorage
 - [ ] Add loading and error states
 - [ ] Add dark mode toggle
-- [ ] Deploy to Vercel/Netlify
 
 ## Author
 
